@@ -1,1 +1,5 @@
-mesmo código
+<<<<<<< HEAD
+Mesmo código
+=======
+Mesmo código
+>>>>>>> teste
